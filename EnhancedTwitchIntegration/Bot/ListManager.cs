@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using ChatCore.Models.Twitch;
-using ChatCore.Utilities;
+using ChatCore.SimpleJSON;
+//using ChatCore.Utilities;
 using UnityEngine;
 
 namespace SongRequestManager

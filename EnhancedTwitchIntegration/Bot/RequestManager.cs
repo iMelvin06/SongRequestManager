@@ -1,7 +1,8 @@
-﻿using System;
+﻿using ChatCore.SimpleJSON;
+using System;
 using System.Collections.Generic;
 using System.IO;
-using ChatCore.Utilities;
+//using ChatCore.Utilities;
 
 namespace SongRequestManager
 {

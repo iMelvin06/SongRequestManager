@@ -7,7 +7,8 @@ using System.Text;
 using UnityEngine;
 using System.Threading.Tasks;
 using ChatCore.Models.Twitch;
-using ChatCore.Utilities;
+using ChatCore.SimpleJSON;
+//using ChatCore.Utilities;
 
 namespace SongRequestManager
 {
